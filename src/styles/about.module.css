@@ -1,0 +1,12 @@
+.main {
+  color: aqua;
+}
+.container {
+  text-align: center;
+}
+
+.postsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
